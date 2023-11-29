@@ -1,6 +1,7 @@
-﻿#include "glfw3.h"
-#include "glew.h"
+﻿#include "glew.h"
+#include "glfw3.h"
 #include <iostream>
+
 int main(void)
 {
     GLFWwindow* window;
